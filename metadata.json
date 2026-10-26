@@ -1,0 +1,6 @@
+{
+  "name": "ডিএন বাংলা - 1920x1920 PhotoCard Engine",
+  "description": "ডিএন বাংলা স্বয়ংক্রিয় ১৯২০x১৯২০ ফটোকার্ড জেনারেটর, লোকাল এড ম্যানেজার, টেক্সট ফটোকার্ড এবং স্টাফ আইডি কার্ড সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
